@@ -1,0 +1,35 @@
+body{
+	background-color: #232323;
+}
+
+.square{
+	padding-bottom:30%;
+	width :30%;
+	background-color: blue;
+	float :left;
+	margin:1.66%;
+	border-radius: 20%;
+}
+
+.container{
+	max-width : 700px;
+	margin:0 auto;
+}
+
+h1{
+	color:white;
+}
+
+/*.message{
+	color: white;
+}*/
+
+.stripe{
+	background-color: white;
+	text-align: center;
+	color: black;
+}
+
+.selected{
+	background-color: blue;
+}
